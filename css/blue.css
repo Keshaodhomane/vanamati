@@ -1,0 +1,26 @@
+.btn-primary,
+.whitebox .title,
+.greenbg,
+.greentitle,
+.calltoaction,
+.orangenews,
+.greenstrip,
+.btn-danger {
+    background-color: #03507F;
+}
+
+.footer {
+    background: #02263C;
+}
+
+.footer h4 {
+    color: #fff
+}
+
+.hexagon {
+    background: #337ab7;
+}
+
+.mapadd img {
+    fill: red;
+}

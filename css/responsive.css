@@ -1,0 +1,93 @@
+/* Landscape phones and portrait tablets */
+
+@media (max-width: 767px) {
+    .indiaicons {
+        margin-top: 100px;
+    }
+    .abs {
+        position: relative;
+        top: 0;
+    }
+    .navbar-default {
+        padding: 0;
+    }
+    .navbar-default .navbar-nav>.active>a {
+        color: #000;
+    }
+    .absnew h2 {
+        font-size: 20px;
+        margin-top: 50px;
+    }
+    .absnew h3 {
+        font-size: 15px;
+    }
+    h2 {
+        line-height: 30px;
+        font-size: 20px;
+        padding: 10px 0;
+    }
+}
+
+
+/* Portrait phones and smaller */
+
+@media (max-width: 480px) {
+    .indiaicons {
+        margin-top: 100px;
+    }
+    .abs {
+        position: relative;
+        top: 0;
+    }
+    .navbar-default {
+        padding: 0;
+    }
+    .navbar-default .navbar-nav>.active>a {
+        color: #000;
+    }
+    .absnew h2 {
+        font-size: 20px;
+        margin-top: 50px;
+    }
+    .absnew h3 {
+        font-size: 15px;
+    }
+    h2 {
+        line-height: 30px;
+        font-size: 20px;
+        padding: 10px 0;
+    }
+}
+
+
+/* Large desktops and laptops */
+
+@media (min-width: 1200px) {
+    .nopad {
+        padding: 0;
+    }
+    .navbar-brand {
+        color: #777;
+        padding-top: 33px !important;
+    }
+}
+
+
+/* Landscape tablets and medium desktops */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .navbar-brand {
+        color: #777;
+        padding-top: 33px !important;
+    }
+}
+
+
+/* Portrait tablets and small desktops */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .navbar-brand {
+        color: #777;
+        padding-top: 33px !important;
+    }
+}
